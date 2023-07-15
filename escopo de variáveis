@@ -1,0 +1,23 @@
+"""variaveis"""
+
+x = 5
+print("valor da variavel global: ", x)
+
+def funcao():
+    x = 3 
+    print("valor da variavel local: ", x)
+
+funcao()
+
+
+y = 'Gabriel'
+z = 1.74
+t = "086.468.384-71"
+l = 23
+
+nome = 'Gabriel'
+altura = 1.74
+cpf = "086.468.384-71"
+idade = 23
+
+print (nome,altura,cpf,idade)
